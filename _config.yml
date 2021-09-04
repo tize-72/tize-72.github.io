@@ -7,6 +7,7 @@ avatarTitle: tize-72
 # 头像里面的描述
 avatarDesc: Game / 机器学习
 url: "https://tize.gitee.io/tize-72.github.io/"
+baseurl:/tize-72.github.io/
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
