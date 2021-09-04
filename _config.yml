@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: tize-72
 # 头像里面的描述
 avatarDesc: Game / 机器学习
-url: "http://tize.gitee.io/tize-72.github.io/"
+url: "https://tize.gitee.io/tize-72.github.io/"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
@@ -77,4 +77,4 @@ paginate_path: "page/:num/"
 
 
 
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
