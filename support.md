@@ -1,7 +1,11 @@
 ---
-layout: page
-title: 技术支持 
+layout : page
+title : 技术支持
 ---
+
+本博客基于 [Github ](https://github.com/)开源项目 [**leopardpan**](https://github.com/leopardpan/leopardpan.github.io) 建立
+
+## 赵奇注：以下内容都为原作者**leopardpan**所作，未修改
 
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
