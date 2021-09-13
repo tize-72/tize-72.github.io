@@ -1,6 +1,6 @@
 ---
 date : 2021-09-13
-layout : page
+layout : post
 tags : html
 title : 选课脚本说明 
 ---
