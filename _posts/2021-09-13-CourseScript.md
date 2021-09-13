@@ -5,23 +5,23 @@ tags : html
 title : 选课脚本说明 
 ---
 
-### 选课脚本说明
+## 选课脚本说明
 
-#### 一、首先进入选课页面
+### 一、首先进入选课页面
 
 ![image-20210913125143806](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131251007.png)
 
-#### 二、然后想选哪一门课，先搜索出来
+### 二、然后想选哪一门课，先搜索出来
 
 比如我这里想选择高级计算机图形学
 
 ![image-20210913125232340](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131252416.png)
 
-#### 三、在当前页面打开检查（Chrome浏览器中按F12）
+### 三、在当前页面打开检查（Chrome浏览器中按F12）
 
 ![image-20210913125336933](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131253032.png)
 
-#### 四、设置脚本
+### 四、设置脚本
 
 1、首先在检查中，点击Console
 
