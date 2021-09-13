@@ -5,8 +5,6 @@ tags : html
 title : 选课脚本说明 
 ---
 
-## 选课脚本说明
-
 ### 一、首先进入选课页面
 
 ![image-20210913125143806](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131251007.png)
