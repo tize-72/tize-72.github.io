@@ -25,6 +25,8 @@ title : 选课脚本说明
 
 2、粘贴以下js代码：
 
+<font color="red">请注意不要修改刷新的频率，否则会被检测为刷课行为！！！</font>
+
 ```javascript
 setInterval(function() {
     var buttons = document.querySelectorAll("button[class='btn btn-primary course-select']");
