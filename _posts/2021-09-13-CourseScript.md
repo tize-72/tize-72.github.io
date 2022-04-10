@@ -7,7 +7,7 @@ title : 选课脚本说明
 
 ### 一、首先进入选课页面
 
-![image-20210913125143806](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131251007.png)
+![image-20210913125143806](https://s2.loli.net/2022/04/10/vRriJBc3bIlFkeu.png)
 
 ### 二、然后想选哪一门课，先搜索出来
 
