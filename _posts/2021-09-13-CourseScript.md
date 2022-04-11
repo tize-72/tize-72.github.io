@@ -1,7 +1,7 @@
 ---
 date : 2021-09-13
 layout : post
-tags : html
+tags : 科大
 title : 选课脚本说明 
 ---
 

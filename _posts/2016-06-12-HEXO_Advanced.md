@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HEXO进阶
-tag: hexo
+tag: 博客搭建
 ---
 
 HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如果你也在使用HEXO，不妨看看，应该会有些帮助。
