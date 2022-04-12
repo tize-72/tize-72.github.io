@@ -2,7 +2,7 @@
 layout: post
 title: 文档支持的Markdown语法
 date: 2016-11-20 
-tags: markdown    
+tags: Typora  
 ---
 
 
@@ -77,5 +77,4 @@ if __name__ == '__main__':
 | 计算机     | \$1600 |   5     |
 | 手机        |   \$12   |   12   |
 | 管线        |    \$1    |  234  |
-
 

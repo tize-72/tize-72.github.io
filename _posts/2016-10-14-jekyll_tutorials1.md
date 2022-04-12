@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll搭建个人博客
 date: 2016-10-14 
-tags: jekyll   
+tags: 博客搭建   
 ---
 
 　之前写了一篇[HEXO搭建个人博客](http://leopardpan.cn/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)的教程获得了很好评，尤其是在[简书](http://www.jianshu.com/p/465830080ea9)上目前已经累积了10W+的阅读量了，也有好心的读者主动给我打赏，在此感谢。
@@ -26,13 +26,13 @@ tags: jekyll
 
 ```     
 $ gem install jekyll     
-```    
+```
 
 创建博客
 
 ```    
 $ jekyll new myBlog    
-```   
+```
 
 进入博客目录
 
@@ -53,7 +53,7 @@ $ jekyll serve
 so easy !
 
 ### 目录结构
-　
+
 　Jekyll 的核心其实是一个文本转换引擎。它的概念其实就是： 你用你最喜欢的标记语言来写文章，可以是 Markdown，也可以是 Textile,或者就是简单的 HTML, 然后 Jekyll 就会帮你套入一个或一系列的布局中。在整个过程中你可以设置URL路径, 你的文本在布局中的显示样式等等。这些都可以通过纯文本编辑来实现，最终生成的静态页面就是你的成品了。
 
  一个基本的 Jekyll 网站的目录结构一般是像这样的：

@@ -1,23 +1,23 @@
 ---
 date : 2021-09-13
 layout : post
-tags : html
+tags : 科大
 title : 选课脚本说明 
 ---
 
 ### 一、首先进入选课页面
 
-![image-20210913125143806](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131251007.png)
+![image-20210913125143806](https://s2.loli.net/2022/04/10/vRriJBc3bIlFkeu.png)
 
 ### 二、然后想选哪一门课，先搜索出来
 
 比如我这里想选择高级计算机图形学
 
-![image-20210913125232340](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131252416.png)
+![image-20210913125232340](https://s2.loli.net/2022/04/10/pr9648hCSdRQmFi.png)
 
 ### 三、在当前页面打开检查（Chrome浏览器中按F12）
 
-![image-20210913125336933](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131253032.png)
+![image-20210913125336933](https://s2.loli.net/2022/04/10/oYMve2K8gOcGBfh.png)
 
 ### 四、设置脚本
 
@@ -55,7 +55,7 @@ var button = buttons[0]
 
 ### 五、脚本运行示例
 
-![image-20210913130003743](https://gitee.com/tize/picgo-imgs/raw/master/img//202109131300882.png)
+![image-20210913130003743](https://s2.loli.net/2022/04/10/jZpBDnsTHgLXe3r.png)
 
 ### 六、注意事项
 
