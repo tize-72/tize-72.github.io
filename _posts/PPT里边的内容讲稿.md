@@ -12,3 +12,9 @@
 
 方案：针对输入构造相似数据，构建创新检验机制
 
+<img src="http://latex.codecogs.com/gif.latex?\theta CIFAR-100" />  
+
+
+
+公式<img  src="https://render.githubusercontent.com/render/math?math=\theta CIFAR-100" />
+
