@@ -36,3 +36,23 @@ git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
 ```
 
 先把repo克隆下来，然后设置url
+
+---
+
+### 更新：2022-04-12下午5点
+
+这个方法可实现pull的操作，但是每次push的时候，都会出现这种问题
+
+```
+Password for 'https://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@github.com'
+```
+
+也就是让输入密码，但是输入了多个密码都不对。。。。
+
+突然又发现问题所在了，博客最后说的是git push就行了，我还加上了origin master这样的后缀，所以会要求输入密码，现在改成
+
+```
+git push
+```
+
+试试
