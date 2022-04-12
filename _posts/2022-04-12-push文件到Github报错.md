@@ -32,5 +32,7 @@ git remote set-url origin https://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@githu
 
 最后成功的方案是：
 ```
-
+git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
 ```
+
+先把repo克隆下来，然后设置url
