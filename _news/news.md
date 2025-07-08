@@ -1,4 +1,6 @@
 ---
+collection: publications
+category: conferences
 permalink: /news/
 ---
 
