@@ -21,10 +21,10 @@ main:
     url: /experiences/    
     
   - title: "Awards"
-    url: /portfolio/
+    url: /awards/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
