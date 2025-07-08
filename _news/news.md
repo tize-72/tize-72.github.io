@@ -1,6 +1,6 @@
 ---
-collection: publications
-category: conferences
+title: "News"
+collection: news
 permalink: /news/
 ---
 
