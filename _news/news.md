@@ -2,6 +2,9 @@
 collection: news
 category: conferences
 permalink: /news/
+redirect_from: 
+  - /news/
+  - /news.html
 ---
 
 - `2025.07.07` I received the official certificate of service as a reviewer for IJCAI 2025.
