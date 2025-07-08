@@ -4,9 +4,105 @@ title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .experience {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: flex-start;
+        }
+        .company-logo {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-right: 20px;
+            border-radius: 4px;
+        }
+        .experience-details {
+            flex: 1;
+        }
+        .job-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #2c3e50;
+            margin: 0 0 5px 0;
+        }
+        .company-name {
+            color: #7f8c8d;
+            margin: 0 0 5px 0;
+        }
+        .time-period {
+            color: #95a5a6;
+            font-style: italic;
+            margin: 0 0 10px 0;
+        }
+        .job-description {
+            margin: 0;
+            color: #34495e;
+        }
+    </style>
+</head>
 
 {% include base_path %}
 
-{% for post in site.experiences reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="container">
+    <!-- <h1>我的工作经历</h1> -->
+    
+    <!-- 工作经历 1 -->
+    <div class="experience">
+        <img src="https://static.leiphone.com/uploads/new/banner/5ad83f07b669e.png" alt="Tencent Youtu Lab" class="company-logo">
+        <div class="experience-details">
+            <h2 class="job-title">Research Algorithm Intern</h2>
+            <p class="company-name">Tencent YouTu Lab</p>
+            <p class="time-period">2025.6 - now</p>
+            <p class="job-description">
+                Research on Multi-turn Role-Playing Dialogue.
+            </p>
+        </div>
+    </div>
+
+    <!-- 工作经历 2 -->
+    <div class="experience">
+        <img src="https://www.eternityx.com/wp-content/uploads/2022/04/Tonghuashun-%E5%90%8C%E8%8A%B1%E9%A1%BA-Logo.png" alt="tonghuashun" class="company-logo">
+        <div class="experience-details">
+            <h2 class="job-title">LLM Algorithm Engineer</h2>
+            <p class="company-name">Hexin Flush Information Network Co., Ltd</p>
+            <p class="time-period">2025.04 - 2025.06</p>
+            <p class="job-description">
+                Financial Large Language Model Development.
+            </p>
+        </div>
+    </div>
+
+    <!-- 工作经历 3 -->
+    <div class="experience">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7ok7w1V4suJVCVFa9FvsSX07yfugbkEvLg&s" alt="Loongson" class="company-logo">
+        <div class="experience-details">
+            <h2 class="job-title">AI Engineer</h2>
+            <p class="company-name">Loongson</p>
+            <p class="time-period">2023.10 - 2024.05</p>
+            <p class="job-description">
+                Porting and Adaptation of ONNX for LoongArch Architecture. 
+            </p>
+        </div>
+    </div>
+</div>

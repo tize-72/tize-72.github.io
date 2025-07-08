@@ -17,5 +17,5 @@ I am currently pursuing my Ph.D. in Computer Technology under the supervision of
 
 - Knowledge Graph-enhanced Large Language Models for QA.
 - Multi-turn Role-playing Dialogue.
-- Efficient Reasoning in Reasoning Large Language Models
+- Efficient Reasoning in Reasoning Large Language Models.
 - Knowledge-enhanced Pretrained Language Models.
