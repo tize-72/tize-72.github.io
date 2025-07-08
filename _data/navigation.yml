@@ -11,17 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /talks/    
+  - title: "News"
+    url: /news/
+
+  # - title: "Education"
+  #   url: /talks/    
 
   - title: "Experiences"
     url: /teaching/    
     
   - title: "Awards"
     url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
